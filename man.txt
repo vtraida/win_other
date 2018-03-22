@@ -1,0 +1,3 @@
+PS C:\Users\vadym_traida> cd c:\scr
+PS C:\scr> ./1.ps1
+Please enter a computer name or IP:

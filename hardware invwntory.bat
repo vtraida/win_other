@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -command C:\inventory\1.ps1
